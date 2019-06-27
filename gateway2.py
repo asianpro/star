@@ -73,7 +73,7 @@ class Checker():
             'email': 'asa@anon.ph',
             'emailConfirm': 'asa@anon.ph',
             'telephone': '1231231231',
-            'token': secondSource['token']
+            'token': 'LIVE_SU_78e0e9d5-979a-4195-96c9-cabc733fa01f'
         }
 
         thirdHeader = {
